@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "134493564612",
+    "firebase_url": "https://bnts-e94d2.firebaseio.com",
+    "project_id": "bnts-e94d2",
+    "storage_bucket": "bnts-e94d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134493564612:android:0b73fe1d3e864a1abe6391",
+        "android_client_info": {
+          "package_name": "com.example.bnt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134493564612-cu5i7d43blvjke0sornk66qfv9srgk2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFZJRBWhmjeF9hXYeaNCeslscgQuVtHlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134493564612-cu5i7d43blvjke0sornk66qfv9srgk2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
